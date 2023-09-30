@@ -1,0 +1,259 @@
+_id,budget,description,endDate,name,startDate,status
+644df48d5131b3459d4023c2,1000,This is the first campaign,2022-01-31,Campaign 1,2022-01-01,Active
+644df48d5131b3459d4023c3,2000,This is the second campaign,2022-02-28,Campaign 2,2022-02-01,Paused
+644df48d5131b3459d4023c4,3000,This is the third campaign,2022-03-31,Campaign 3,2022-03-01,Active
+644df48d5131b3459d4023c5,4000,This is the fourth campaign,2022-04-30,Campaign 4,2022-04-01,Inactive
+644df48d5131b3459d4023c6,5000,This is the fifth campaign,2022-05-31,Campaign 5,2022-05-01,Active
+644df48d5131b3459d4023c7,6000,This is the sixth campaign,2022-06-30,Campaign 6,2022-06-01,Paused
+644df48d5131b3459d4023c8,7000,This is the seventh campaign,2022-07-31,Campaign 7,2022-07-01,Active
+644df48d5131b3459d4023c9,8000,This is the eighth campaign,2022-08-31,Campaign 8,2022-08-01,Inactive
+644df48d5131b3459d4023ca,9000,This is the ninth campaign,2022-09-30,Campaign 9,2022-09-01,Active
+644df48d5131b3459d4023cb,10000,This is the tenth campaign,2022-10-31,Campaign 10,2022-10-01,Paused
+644df48d5131b3459d4023cc,11000,This is the eleventh campaign,2022-11-30,Campaign 11,2022-11-01,Active
+644df48d5131b3459d4023cd,12000,This is the twelfth campaign,2022-12-31,Campaign 12,2022-12-01,Inactive
+644df48d5131b3459d4023ce,13000,lol,2023-01-31,Campaign 13,2023-01-01,Active
+644df48d5131b3459d4023cf,14000,This is the fourteenth campaign,2023-02-28,Campaign 14,2023-02-01,Paused
+644df48d5131b3459d4023d0,15000,This is the fifteenth campaign,2023-03-31,Campaign 15,2023-03-01,Active
+644df48d5131b3459d4023d1,16000,This is the sixteenth campaign,2023-04-30,Campaign 16,2023-04-01,Inactive
+644df48d5131b3459d4023d2,17000,This is the seventeenth campaign,2023-05-31,Campaign 17,2023-05-01,Active
+644df48d5131b3459d4023d3,18000,This is the eighteenth campaign,2023-06-30,Campaign 18,2023-06-01,Paused
+644df48d5131b3459d4023d4,19000,This is the nineteenth campaign,2023-07-31,Campaign 19,2023-07-01,Active
+644df48d5131b3459d4023d5,20000,This is the twentieth campaign,2023-08-31,Campaign 20,2023-08-01,Inactive
+644df48d5131b3459d4023d6,21000,This is the twenty-first campaign,2023-09-30,Campaign 21,2023-09-01,Active
+644df48d5131b3459d4023d7,22000,This is the twenty-second campaign,2023-10-31,Campaign 22,2023-10-01,Paused
+644df48d5131b3459d4023d8,23000,This is the twenty-third campaign,2023-11-30,Campaign 23,2023-11-01,Active
+644df48d5131b3459d4023d9,24000,This is the twenty-fourth campaign,2023-12-31,Campaign 24,2023-12-01,Inactive
+644df48d5131b3459d4023da,25000,This is the twenty-fifth campaign,1992,Campaign 25,2024-01-01,Active
+644df48d5131b3459d4023db,26000,This is the twenty-sixth campaign,2024-02-29,Campaign 26,2024-02-01,Paused
+644df48d5131b3459d4023dc,27000,This is the twenty-seventh campaign,2024-03-31,Campaign 27,2024-03-01,Active
+644df48d5131b3459d4023dd,28000,This is the twenty-eighth campaign,2024-04-30,Campaign 28,2024-04-01,Inactive
+644df48d5131b3459d4023de,29000,This is the twenty-ninth campaign,2024-05-31,Campaign 29,2024-05-01,Active
+644df48d5131b3459d4023df,30000,This is the thirtieth campaign,2024-06-30,Campaign 30,2024-06-01,Paused
+644df48d5131b3459d4023e0,31000,This is the thirty-first campaign,2024-07-31,Campaign 31,2024-07-01,Active
+644df48d5131b3459d4023e1,32000,This is the thirty-second campaign,2024-08-31,Campaign 32,2024-08-01,Inactive
+644df48d5131b3459d4023e2,33000,This is the thirty-third campaign,2024-09-30,Campaign 33,2024-09-01,Active
+644df48d5131b3459d4023e3,34000,This is the thirty-fourth campaign,2024-10-31,Campaign 34,2024-10-01,Paused
+644df48d5131b3459d4023e4,35000,This is the thirty-fifth campaign,2024-11-30,Campaign 35,2024-11-01,Active
+644df48d5131b3459d4023e5,36000,This is the thirty-sixth campaign,2024-12-31,Campaign 36,2024-12-01,Inactive
+644df48d5131b3459d4023e6,37000,This is the thirty-seventh campaign,2025-01-31,Campaign 37,2025-01-01,Active
+644df48d5131b3459d4023e7,38000,This is the thirty-eighth campaign,2025-02-28,Campaign 38,2025-02-01,Active
+644df48d5131b3459d4023e8,39000,This is the thirty-ninth campaign,2025-03-31,Campaign 39,2025-03-01,Paused
+644df48d5131b3459d4023e9,40000,This is the fortieth campaign,2025-04-30,Campaign 40,2025-04-01,Active
+644df48d5131b3459d4023ea,41000,This is the forty-first campaign,2025-05-31,Campaign 41,2025-05-01,Inactive
+644df48d5131b3459d4023eb,42000,This is the forty-second campaign,2025-06-30,Campaign 42,2025-06-01,Active
+644df48d5131b3459d4023ec,43000,This is the forty-third campaign,2025-07-31,Campaign 43,2025-07-01,Paused
+644df48d5131b3459d4023ed,44000,This is the forty-fourth campaign,2025-08-31,Campaign 44,2025-08-01,Active
+644df48d5131b3459d4023ee,45000,This is the forty-fifth campaign,2025-09-30,Campaign 45,2025-09-01,Inactive
+644df48d5131b3459d4023ef,46000,This is the forty-sixth campaign,2025-10-31,Campaign 46,2025-10-01,Active
+644df48d5131b3459d4023f0,47000,This is the forty-seventh campaign,2025-11-30,Campaign 47,2025-11-01,Paused
+644df48d5131b3459d4023f1,48000,This is the forty-eighth campaign,2025-12-31,Campaign 48,2025-12-01,Active
+644df48d5131b3459d4023f2,49000,This is the forty-ninth campaign,2026-01-31,Campaign 49,2026-01-01,Inactive
+644df48d5131b3459d4023f3,50000,This is the fiftieth campaign,2026-02-28,Campaign 50,2026-02-01,Active
+644df48d5131b3459d4023f4,51000,This is the fifty-first campaign,2026-03-31,Campaign 51,2026-03-01,Paused
+644df48d5131b3459d4023f5,52000,This is the fifty-second campaign,2026-04-30,Campaign 52,2026-04-01,Active
+644df48d5131b3459d4023f6,53000,This is the fifty-third campaign,2026-05-31,Campaign 53,2026-05-01,Inactive
+644df48d5131b3459d4023f7,54000,This is the fifty-fourth campaign,2026-06-30,Campaign 54,2026-06-01,Active
+644df48d5131b3459d4023f8,55000,This is the fifty-fifth campaign,2026-07-31,Campaign 55,2026-07-01,Paused
+644df48d5131b3459d4023f9,56000,This is the fifty-sixth campaign,2026-08-31,Campaign 56,2026-08-01,Active
+644df48d5131b3459d4023fa,57000,This is the fifty-seventh campaign,2026-09-30,Campaign 57,2026-09-01,Inactive
+644df48d5131b3459d4023fb,58000,This is the fifty-eighth campaign,2026-10-31,Campaign 58,2026-10-01,Active
+644df48d5131b3459d4023fc,59000,This is the fifty-ninth campaign,2026-11-30,Campaign 59,2026-11-01,Paused
+644df48d5131b3459d4023fd,60000,This is the sixtieth campaign,2026-12-31,Campaign 60,2026-12-01,Active
+644df48d5131b3459d4023fe,61000,This is the sixty-first campaign,2027-01-31,Campaign 61,2027-01-01,Active
+644df48d5131b3459d4023ff,62000,This is the sixty-second campaign,2027-02-28,Campaign 62,2027-02-01,Paused
+644df48d5131b3459d402400,63000,This is the sixty-third campaign,2027-03-31,Campaign 63,2027-03-01,Active
+644df48d5131b3459d402401,64000,This is the sixty-fourth campaign,2027-04-30,Campaign 64,2027-04-01,Inactive
+644df48d5131b3459d402402,65000,This is the sixty-fifth campaign,2027-05-31,Campaign 65,2027-05-01,Active
+644df48d5131b3459d402403,66000,This is the sixty-sixth campaign,2027-06-30,Campaign 66,2027-06-01,Paused
+644df48d5131b3459d402404,67000,This is the sixty-seventh campaign,2027-07-31,Campaign 67,2027-07-01,Active
+644df48d5131b3459d402405,68000,This is the sixty-eighth campaign,2027-08-31,Campaign 68,2027-08-01,Inactive
+644df48d5131b3459d402406,69000,This is the sixty-ninth campaign,2027-09-30,Campaign 69,2027-09-01,Active
+644df48d5131b3459d402407,70000,This is the seventieth campaign,2027-10-31,Campaign 70,2027-10-01,Paused
+644df48d5131b3459d402408,71000,This is the seventy-first campaign,2027-11-30,Campaign 71,2027-11-01,Active
+644df48d5131b3459d402409,72000,This is the seventy-second campaign,2027-12-31,Campaign 72,2027-12-01,Inactive
+644df48d5131b3459d40240a,73000,This is the seventy-third campaign,2028-01-31,Campaign 73,2028-01-01,Active
+644df48d5131b3459d40240b,74000,This is the seventy-fourth campaign,2028-02-29,Campaign 74,2028-02-01,Paused
+644df48d5131b3459d40240c,75000,This is the seventy-fifth campaign,2028-03-31,Campaign 75,2028-03-01,Active
+644df48d5131b3459d40240d,76000,This is the seventy-sixth campaign,2028-04-30,Campaign 76,2028-04-01,Inactive
+644df48d5131b3459d40240e,77000,This is the seventy-seventh campaign,2028-05-31,Campaign 77,2028-05-01,Active
+644df48d5131b3459d40240f,78000,This is the seventy-eighth campaign,2028-06-30,Campaign 78,2028-06-01,Paused
+644df48d5131b3459d402410,79000,This is the seventy-ninth campaign,2028-07-31,Campaign 79,2028-07-01,Active
+644df48d5131b3459d402411,80000,This is the eightieth campaign,2028-08-31,Campaign 80,2028-08-01,Inactive
+644df48d5131b3459d402412,81000,This is the eighty-first campaign,2028-09-30,Campaign 81,2028-09-01,Active
+644df48d5131b3459d402413,82000,This is the eighty-second campaign,2028-10-31,Campaign 82,2028-10-01,Paused
+644df48d5131b3459d402414,83000,This is the eighty-third campaign,2028-11-30,Campaign 83,2028-11-01,Active
+644df48d5131b3459d402415,84000,This is the eighty-fourth campaign,2028-12-31,Campaign 84,2028-12-01,Inactive
+644df48d5131b3459d402416,85000,This is the eighty-fifth campaign,2029-01-31,Campaign 85,2029-01-01,Active
+644df48d5131b3459d402417,86000,This is the eighty-sixth campaign,2029-02-28,Campaign 86,2029-02-01,Paused
+644df48d5131b3459d402418,87000,This is the eighty-seventh campaign,2029-03-31,Campaign 87,2029-03-01,Active
+644df48d5131b3459d402419,88000,This is the eighty-eighth campaign,2029-04-30,Campaign 88,2029-04-01,Inactive
+644df48d5131b3459d40241a,89000,This is the eighty-ninth campaign,2029-05-31,Campaign 89,2029-05-01,Active
+644df48d5131b3459d40241b,90000,This is the ninetieth campaign,2029-06-30,Campaign 90,2029-06-01,Paused
+644df48d5131b3459d40241c,91000,This is the ninety-first campaign,2029-07-31,Campaign 91,2029-07-01,Active
+644df48d5131b3459d40241d,92000,This is the ninety-second campaign,2029-08-31,Campaign 92,2029-08-01,Inactive
+644df48d5131b3459d40241e,93000,This is the ninety-third campaign,2029-09-30,Campaign 93,2029-09-01,Active
+644df48d5131b3459d40241f,94000,This is the ninety-fourth campaign,2029-10-31,Campaign 94,2029-10-01,Paused
+644df48d5131b3459d402420,95000,This is the ninety-fifth campaign,2029-11-30,Campaign 95,2029-11-01,Active
+644df48d5131b3459d402421,96000,This is the ninety-sixth campaign,2029-12-31,Campaign 96,2029-12-01,Inactive
+644df48d5131b3459d402422,97000,This is the ninety-seventh campaign,2030-01-31,Campaign 97,2030-01-01,Active
+644df48d5131b3459d402423,98000,This is the ninety-eighth campaign,2030-02-28,Campaign 98,2030-02-01,Paused
+644df48d5131b3459d402424,99000,This is the ninety-ninth campaign,2030-03-31,Campaign 99,2030-03-01,Active
+644df48d5131b3459d402425,100000,This is the hundredth campaign,2030-04-30,Campaign 100,2030-04-01,Inactive
+644df48d5131b3459d402426,101000,This is the hundred and first campaign,2030-05-31,Campaign 101,2030-05-01,Active
+644df48d5131b3459d402427,102000,This is the hundred and second campaign,2030-06-30,Campaign 102,2030-06-01,Inactive
+644df48d5131b3459d402428,103000,This is the hundred and third campaign,2030-07-31,Campaign 103,2030-07-01,Active
+644df48d5131b3459d402429,104000,This is the hundred and fourth campaign,2030-08-31,Campaign 104,2030-08-01,Paused
+644df48d5131b3459d40242a,105000,This is the hundred and fifth campaign,2030-09-30,Campaign 105,2030-09-01,Active
+644df48d5131b3459d40242b,106000,This is the hundred and sixth campaign,2030-10-31,Campaign 106,2030-10-01,Inactive
+644df48d5131b3459d40242c,107000,This is the hundred and seventh campaign,2030-11-30,Campaign 107,2030-11-01,Active
+644df48d5131b3459d40242d,108000,This is the hundred and eighth campaign,2030-12-31,Campaign 108,2030-12-01,Paused
+644df48d5131b3459d40242e,109000,This is the hundred and ninth campaign,2031-01-31,Campaign 109,2031-01-01,Active
+644df48d5131b3459d40242f,110000,This is the hundred and tenth campaign,2031-02-28,Campaign 110,2031-02-01,Inactive
+644df48d5131b3459d402430,111000,This is the hundred and eleventh campaign,2031-03-31,Campaign 111,2031-03-01,Active
+644df48d5131b3459d402431,112000,This is the hundred and twelfth campaign,2031-04-30,Campaign 112,2031-04-01,Active
+644df48d5131b3459d402432,113000,This is the hundred and thirteenth campaign,2031-05-31,Campaign 113,2031-05-01,Active
+644df48d5131b3459d402433,114000,This is the hundred and fourteenth campaign,2031-06-30,Campaign 114,2031-06-01,Inactive
+644df48d5131b3459d402434,115000,This is the hundred and fifteenth campaign,2031-07-31,Campaign 115,2031-07-01,Active
+644df48d5131b3459d402435,116000,This is the hundred and sixteenth campaign,2031-08-31,Campaign 116,2031-08-01,Paused
+644df48d5131b3459d402436,117000,This is the hundred and seventeenth campaign,2031-09-30,Campaign 117,2031-09-01,Active
+644df48d5131b3459d402437,118000,This is the hundred and eighteenth campaign,2031-10-31,Campaign 118,2031-10-01,Inactive
+644df48d5131b3459d402438,119000,This is the hundred and nineteenth campaign,2031-11-30,Campaign 119,2031-11-01,Active
+644df48d5131b3459d402439,120000,This is the hundred and twentieth campaign,2031-12-31,Campaign 120,2031-12-01,Paused
+644df48d5131b3459d40243a,121000,This is the hundred and twenty-first campaign,2032-01-31,Campaign 121,2032-01-01,Active
+644df48d5131b3459d40243b,122000,This is the hundred and twenty-second campaign,2032-02-29,Campaign 122,2032-02-01,Inactive
+644df48d5131b3459d40243c,123000,This is the hundred and twenty-third campaign,2032-03-31,Campaign 123,2032-03-01,Active
+644df48d5131b3459d40243d,124000,This is the hundred and twenty-fourth campaign,2032-04-30,Campaign 124,2032-04-01,Active
+644df48d5131b3459d40243e,125000,This is the hundred and twenty-fifth campaign,2032-05-31,Campaign 125,2032-05-01,Paused
+644df48d5131b3459d40243f,126000,This is the hundred and twenty-sixth campaign,2032-06-30,Campaign 126,2032-06-01,Active
+644df48d5131b3459d402440,127000,This is the hundred and twenty-seventh campaign,2032-07-31,Campaign 127,2032-07-01,Inactive
+644df48d5131b3459d402441,128000,This is the hundred and twenty-eighth campaign,2032-08-31,Campaign 128,2032-08-01,Active
+644df48d5131b3459d402442,129000,This is the hundred and twenty-ninth campaign,2032-09-30,Campaign 129,2032-09-01,Paused
+644df48d5131b3459d402443,130000,This is the hundred and thirtieth campaign,2032-10-31,Campaign 130,2032-10-01,Active
+644df48d5131b3459d402444,131000,This is the hundred and thirty-first campaign,2032-11-30,Campaign 131,2032-11-01,Active
+644df48d5131b3459d402445,132000,This is the hundred and thirty-second campaign,2032-12-31,Campaign 132,2032-12-01,Inactive
+644df48d5131b3459d402446,133000,This is the hundred and thirty-third campaign,2033-01-31,Campaign 133,2033-01-01,Active
+644df48d5131b3459d402447,134000,This is the hundred and thirty-fourth campaign,2033-02-28,Campaign 134,2033-02-01,Paused
+644df48d5131b3459d402448,135000,This is the hundred and thirty-fifth campaign,2033-03-31,Campaign 135,2033-03-01,Active
+644df48d5131b3459d402449,136000,This is the hundred and thirty-sixth campaign,2033-04-30,Campaign 136,2033-04-01,Inactive
+644df48d5131b3459d40244a,137000,This is the hundred and thirty-seventh campaign,2033-05-31,Campaign 137,2033-05-01,Active
+644df48d5131b3459d40244b,138000,This is the hundred and thirty-eighth campaign,2033-06-30,Campaign 138,2033-06-01,Paused
+644df48d5131b3459d40244c,139000,This is the hundred and thirty-ninth campaign,2033-07-31,Campaign 139,2033-07-01,Active
+644df48d5131b3459d40244d,140000,This is the hundred and fortieth campaign,2033-08-31,Campaign 140,2033-08-01,Active
+644df48d5131b3459d40244e,141000,This is the hundred and forty-first campaign,2033-09-30,Campaign 141,2033-09-01,Inactive
+644df48d5131b3459d40244f,142000,This is the hundred and forty-second campaign,2033-10-31,Campaign 142,2033-10-01,Active
+644df48d5131b3459d402450,143000,This is the hundred and forty-third campaign,2033-11-30,Campaign 143,2033-11-01,Paused
+644df48d5131b3459d402451,144000,This is the hundred and forty-fourth campaign,2033-12-31,Campaign 144,2033-12-01,Active
+644df48d5131b3459d402452,145000,This is the hundred and forty-fifth campaign,2034-01-31,Campaign 145,2034-01-01,Active
+644df48d5131b3459d402453,146000,This is the hundred and forty-sixth campaign,2034-02-28,Campaign 146,2034-02-01,Inactive
+644df48d5131b3459d402454,147000,This is the hundred and forty-seventh campaign,2034-03-31,Campaign 147,2034-03-01,Active
+644df48d5131b3459d402455,148000,This is the hundred and forty-eighth campaign,2034-04-30,Campaign 148,2034-04-01,Active
+644df48d5131b3459d402456,149000,This is the hundred and forty-ninth campaign,2034-05-31,Campaign 149,2034-05-01,Paused
+644df48d5131b3459d402457,150000,This is the hundred and fiftieth campaign,2034-06-30,Campaign 150,2034-06-01,Active
+644df48d5131b3459d402458,151000,This is the hundred and fifty-first campaign,2034-07-31,Campaign 151,2034-07-01,Active
+644df48d5131b3459d402459,152000,This is the hundred and fifty-second campaign,2034-08-31,Campaign 152,2034-08-01,Inactive
+644df48d5131b3459d40245a,153000,This is the hundred and fifty-third campaign,2034-09-30,Campaign 153,2034-09-01,Active
+644df48d5131b3459d40245b,154000,This is the hundred and fifty-fourth campaign,2034-10-31,Campaign 154,2034-10-01,Paused
+644df48d5131b3459d40245c,155000,This is the hundred and fifty-fifth campaign,2034-11-30,Campaign 155,2034-11-01,Active
+644df48d5131b3459d40245d,156000,This is the hundred and fifty-sixth campaign,2034-12-31,Campaign 156,2034-12-01,Active
+644df48d5131b3459d40245e,157000,This is the hundred and fifty-seventh campaign,2035-01-31,Campaign 157,2035-01-01,Inactive
+644df48d5131b3459d40245f,158000,This is the hundred and fifty-eighth campaign,2035-02-28,Campaign 158,2035-02-01,Active
+644df48d5131b3459d402460,159000,This is the hundred and fifty-ninth campaign,2035-03-31,Campaign 159,2035-03-01,Paused
+644df48d5131b3459d402461,160000,This is the hundred and sixtieth campaign,2035-04-30,Campaign 160,2035-04-01,Active
+644df48d5131b3459d402462,161000,This is the hundred and sixty-first campaign,2035-05-31,Campaign 161,2035-05-01,Active
+644df48d5131b3459d402463,162000,This is the hundred and sixty-second campaign,2035-06-30,Campaign 162,2035-06-01,Inactive
+644df48d5131b3459d402464,163000,This is the hundred and sixty-third campaign,2035-07-31,Campaign 163,2035-07-01,Active
+644df48d5131b3459d402465,164000,This is the hundred and sixty-fourth campaign,2035-08-31,Campaign 164,2035-08-01,Paused
+644df48d5131b3459d402466,165000,This is the hundred and sixty-fifth campaign,2035-09-30,Campaign 165,2035-09-01,Active
+644df48d5131b3459d402467,166000,This is the hundred and sixty-sixth campaign,2035-10-31,Campaign 166,2035-10-01,Active
+644df48d5131b3459d402468,167000,This is the hundred and sixty-seventh campaign,2035-11-30,Campaign 167,2035-11-01,Inactive
+644df48d5131b3459d402469,168000,This is the hundred and sixty-eighth campaign,2035-12-31,Campaign 168,2035-12-01,Active
+644df48d5131b3459d40246a,169000,This is the hundred and sixty-ninth campaign,2036-01-31,Campaign 169,2036-01-01,Paused
+644df48d5131b3459d40246b,170000,This is the hundred and seventieth campaign,2036-02-29,Campaign 170,2036-02-01,Active
+644df48d5131b3459d40246c,171000,This is the hundred and seventy-first campaign,2036-03-31,Campaign 171,2036-03-01,Active
+644df48d5131b3459d40246d,172000,This is the hundred and seventy-second campaign,2036-04-30,Campaign 172,2036-04-01,Inactive
+644df48d5131b3459d40246e,173000,This is the hundred and seventy-third campaign,2036-05-31,Campaign 173,2036-05-01,Active
+644df48d5131b3459d40246f,174000,This is the hundred and seventy-fourth campaign,2036-06-30,Campaign 174,2036-06-01,Paused
+644df48d5131b3459d402470,175000,This is the hundred and seventy-fifth campaign,2036-07-31,Campaign 175,2036-07-01,Active
+644df48d5131b3459d402471,176000,This is the hundred and seventy-sixth campaign,2036-08-31,Campaign 176,2036-08-01,Active
+644df48d5131b3459d402472,177000,This is the hundred and seventy-seventh campaign,2036-09-30,Campaign 177,2036-09-01,Inactive
+644df48d5131b3459d402473,178000,This is the hundred and seventy-eighth campaign,2036-10-31,Campaign 178,2036-10-01,Active
+644df48d5131b3459d402474,179000,This is the hundred and seventy-ninth campaign,2036-11-30,Campaign 179,2036-11-01,Paused
+644df48d5131b3459d402475,180000,This is the hundred and eightieth campaign,2036-12-31,Campaign 180,2036-12-01,Active
+644df48d5131b3459d402476,181000,This is the hundred and eighty-first campaign,2037-01-31,Campaign 181,2037-01-01,Active
+644df48d5131b3459d402477,182000,This is the hundred and eighty-second campaign,2037-02-28,Campaign 182,2037-02-01,Inactive
+644df48d5131b3459d402478,183000,This is the hundred and eighty-third campaign,2037-03-31,Campaign 183,2037-03-01,Active
+644df48d5131b3459d402479,184000,Thisis the hundred and eighty-fourth campaign,2037-04-30,Campaign 184,2037-04-01,Active
+644df48d5131b3459d40247a,185000,This is the hundred and eighty-fifth campaign,2037-05-31,Campaign 185,2037-05-01,Paused
+644df48d5131b3459d40247b,186000,This is the hundred and eighty-sixth campaign,2037-06-30,Campaign 186,2037-06-01,Inactive
+644df48d5131b3459d40247c,187000,This is the hundred and eighty-seventh campaign,2037-07-31,Campaign 187,2037-07-01,Active
+644df48d5131b3459d40247d,188000,This is the hundred and eighty-eighth campaign,2037-08-31,Campaign 188,2037-08-01,Active
+644df48d5131b3459d40247e,189000,This is the hundred and eighty-ninth campaign,2037-09-30,Campaign 189,2037-09-01,Paused
+644df48d5131b3459d40247f,190000,This is the hundred and ninetieth campaign,2037-10-31,Campaign 190,2037-10-01,Inactive
+644df48d5131b3459d402480,191000,This is the hundred and ninety-first campaign,2037-11-30,Campaign 191,2037-11-01,Active
+644df48d5131b3459d402481,192000,This is the hundred and ninety-second campaign,2037-12-31,Campaign 192,2037-12-01,Active
+644df48d5131b3459d402482,193000,This is the hundred and ninety-third campaign,2038-01-31,Campaign 193,2038-01-01,Inactive
+644df48d5131b3459d402483,194000,This is the hundred and ninety-fourth campaign,2038-02-28,Campaign 194,2038-02-01,Paused
+644df48d5131b3459d402484,195000,This is the hundred and ninety-fifth campaign,2038-03-31,Campaign 195,2038-03-01,Active
+644df48d5131b3459d402485,196000,This is the hundred and ninety-sixth campaign,2038-04-30,Campaign 196,2038-04-01,Active
+644df48d5131b3459d402486,197000,This is the hundred and ninety-seventh campaign,2038-05-31,Campaign 197,2038-05-01,Paused
+644df48d5131b3459d402487,198000,This is the hundred and ninety-eighth campaign,2038-06-30,Campaign 198,2038-06-01,Inactive
+644df48d5131b3459d402488,199000,This is the hundred and ninety-ninth campaign,2038-07-31,Campaign 199,2038-07-01,Active
+644df48d5131b3459d402489,200000,This is the two hundredth campaign,2038-08-31,Campaign 200,2038-08-01,Active
+644df48d5131b3459d40248a,201000,This is the two hundred and first campaign,2038-09-30,Campaign 201,2038-09-01,Paused
+644df48d5131b3459d40248b,202000,This is the two hundred and second campaign,2038-10-31,Campaign 202,2038-10-01,Inactive
+644df48d5131b3459d40248c,203000,This is the two hundred and third campaign,2038-11-30,Campaign 203,2038-11-01,Active
+644df48d5131b3459d40248d,204000,This is the two hundred and fourth campaign,2038-12-31,Campaign 204,2038-12-01,Active
+644df48d5131b3459d40248e,205000,This is the two hundred and fifth campaign,2039-01-31,Campaign 205,2039-01-01,Inactive
+644df48d5131b3459d40248f,206000,This is the two hundred and sixth campaign,2039-02-28,Campaign 206,2039-02-01,Paused
+644df48d5131b3459d402490,207000,This is the two hundred and seventh campaign,2039-03-31,Campaign 207,2039-03-01,Active
+644df48d5131b3459d402491,208000,This is the two hundred and eighth campaign,2039-04-30,Campaign 208,2039-04-01,Active
+644df48d5131b3459d402492,209000,This is the two hundred and ninth campaign,2039-05-31,Campaign 209,2039-05-01,Inactive
+644df48d5131b3459d402493,210000,This is the two hundred and tenth campaign,2039-06-30,Campaign 210,2039-06-01,Active
+644df48d5131b3459d402494,211000,This is the two hundred and eleventh campaign,2039-07-31,Campaign 211,2039-07-01,Paused
+644df48d5131b3459d402495,212000,This is the two hundred and twelfth campaign,2039-08-31,Campaign 212,2039-08-01,Inactive
+644df48d5131b3459d402496,213000,This is the two hundred and thirteenth campaign,2039-09-30,Campaign 213,2039-09-01,Active
+644df48d5131b3459d402497,214000,This is the two hundred and fourteenth campaign,2039-10-31,Campaign 214,2039-10-01,Active
+644df48d5131b3459d402498,215000,This is the two hundred and fifteenth campaign,2039-11-30,Campaign 215,2039-11-01,Paused
+644df48d5131b3459d402499,216000,This is the two hundred and sixteenth campaign,2039-12-31,Campaign 216,2039-12-01,Active
+644df48d5131b3459d40249a,217000,This is the two hundred and seventeenth campaign,2040-01-31,Campaign 217,2040-01-01,Inactive
+644df48d5131b3459d40249b,218000,This is the two hundred and eighteenth campaign,2040-02-29,Campaign 218,2040-02-01,Active
+644df48d5131b3459d40249c,219,This is the two hundred and nineteenth campaign,2040-03-31,Campaign 219,2040-03-01,Active
+644df48d5131b3459d40249d,220000,This is the two hundred and twentieth campaign,2040-04-30,Campaign 220,2040-04-01,Active
+644df48d5131b3459d40249e,221000,This is the two hundred and twenty-first campaign,2040-05-31,Campaign 221,2040-05-01,Inactive
+644df48d5131b3459d40249f,222000,This is the two hundred and twenty-second campaign,2040-06-30,Campaign 222,2040-06-01,Paused
+644df48d5131b3459d4024a0,223000,This is the two hundred and twenty-third campaign,2040-07-31,Campaign 223,2040-07-01,Active
+644df48d5131b3459d4024a1,224000,This is the two hundred and twenty-fourth campaign,2040-08-31,Campaign 224,2040-08-01,Active
+644df48d5131b3459d4024a2,225000,This is the two hundred and twenty-fifth campaign,2040-09-30,Campaign 225,2040-09-01,Inactive
+644df48d5131b3459d4024a3,226000,This is the two hundred and twenty-sixth campaign,2040-10-31,Campaign 226,2040-10-01,Active
+644df48d5131b3459d4024a4,227000,This is the two hundred and twenty-seventh campaign,2040-11-30,Campaign 227,2040-11-01,Paused
+644df48d5131b3459d4024a5,228000,This is the two hundred and twenty-eighth campaign,2040-12-31,Campaign 228,2040-12-01,Active
+644df48d5131b3459d4024a6,229000,This is the two hundred and twenty-ninth campaign,2041-01-31,Campaign 229,2041-01-01,Inactive
+644df48d5131b3459d4024a7,230000,This is the two hundred and thirtieth campaign,2041-02-28,Campaign 230,2041-02-01,Active
+644df48d5131b3459d4024a8,231000,This is the two hundred and thirty-first campaign,2041-03-31,Campaign 231,2041-03-01,Paused
+644df48d5131b3459d4024a9,232000,This is the two hundred and thirty-second campaign,2041-04-30,Campaign 232,2041-04-01,Active
+644df48d5131b3459d4024aa,233000,This is the two hundred and thirty-third campaign,2041-05-31,Campaign 233,2041-05-01,Active
+644df48d5131b3459d4024ab,234000,This is the two hundred and thirty-fourth campaign,2041-06-30,Campaign 234,2041-06-01,Inactive
+644df48d5131b3459d4024ac,235000,This is the two hundred and thirty-fifth campaign,2041-07-31,Campaign 235,2041-07-01,Active
+644df48d5131b3459d4024ad,236000,This is the two hundred and thirty-sixth campaign,2041-08-31,Campaign 236,2041-08-01,Paused
+644df48d5131b3459d4024ae,237000,This is the two hundred and thirty-seventh campaign,2041-09-30,Campaign 237,2041-09-01,Active
+644df48d5131b3459d4024af,238000,This is the two hundred and thirty-eighth campaign,2041-10-31,Campaign 238,2041-10-01,Active
+644df48d5131b3459d4024b0,239000,This is the two hundred and thirty-ninth campaign,2041-11-30,Campaign 239,2041-11-01,Inactive
+644df48d5131b3459d4024b1,240000,This is the two hundred and fortieth campaign,2041-12-31,Campaign 240,2041-12-01,Active
+644df48d5131b3459d4024b2,241000,This is the two hundred and forty-first campaign,2042-01-31,Campaign 241,2042-01-01,Paused
+644df48d5131b3459d4024b3,242000,This is the two hundred and forty-second campaign,2042-02-28,Campaign 242,2042-02-01,Active
+644df48d5131b3459d4024b4,243000,This is the two hundred and forty-third campaign,2042-03-31,Campaign 243,2042-03-01,Inactive
+644df48d5131b3459d4024b5,244000,This is the two hundred and forty-fourth campaign,2042-04-30,Campaign 244,2042-04-01,Active
+644df48d5131b3459d4024b6,245000,This is the two hundred and forty-fifth campaign,2042-05-31,Campaign 245,2042-05-01,Paused
+644df48d5131b3459d4024b7,246000,This is the two hundred and forty-sixth campaign,2042-06-30,Campaign 246,2042-06-01,Active
+644df48d5131b3459d4024b8,247000,This is the two hundred and forty-seventh campaign,2042-07-31,Campaign 247,2042-07-01,Active
+644df48d5131b3459d4024b9,248000,This is the two hundred and forty-eighth campaign,2042-08-31,Campaign 248,2042-08-01,Inactive
+644df48d5131b3459d4024ba,249000,This is the two hundred and forty-ninth campaign,2042-09-30,Campaign 249,2042-09-01,Active
+644df48d5131b3459d4024bb,250000,This is the two hundred and fiftieth campaign,2042-10-31,Campaign 250,2042-10-01,Paused
+644df48d5131b3459d4024bc,251000,This is the two hundred and fifty-first campaign,2042-11-30,Campaign 251,2042-11-01,Active
+644df48d5131b3459d4024bd,252000,This is the two hundred and fifty-second campaign,2042-12-31,Campaign 252,2042-12-01,Active
+644df48d5131b3459d4024be,253000,This is the two hundred and fifty-third campaign,2043-01-31,Campaign 253,2043-01-01,Inactive
+644df48d5131b3459d4024bf,254000,This is the two hundred and fifty-fourth campaign,2043-02-28,Campaign 254,2043-02-01,Active
+644df79ff6f0306e54f5f983,2000,,25-07-23,camp2020,23-3-4554,
+644df8328446710e913647f2,3000,bith,16-07-2003,aditya,day,Active
+645a0b70c7f62b3f4b62974b,2000,,20-4-2003,aditya,22-3-2023,
+6517bcc473f74d13995bf978,22,,2,2,2,
