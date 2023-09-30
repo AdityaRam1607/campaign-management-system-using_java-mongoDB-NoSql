@@ -33,7 +33,7 @@ Here are the steps to run:
 
 By following these steps, you should be able to set up your Eclipse project, connect it to MongoDB, and observe the outputs in the Eclipse console as you work with the database.
 
-![image]![Screenshot 2023-09-30 112921](https://github.com/AdityaRam1607/campaign-management-system-using_java-mongoDB-NoSql/assets/102134127/90fb74e2-e794-4dd1-95d6-3840c323a404)
+![Screenshot 2023-09-30 112921](https://github.com/AdityaRam1607/campaign-management-system-using_java-mongoDB-NoSql/assets/102134127/90fb74e2-e794-4dd1-95d6-3840c323a404)
 
 
 ![Screenshot 2023-09-30 113018](https://github.com/AdityaRam1607/campaign-management-system-using_java-mongoDB-NoSql/assets/102134127/1fc0a8a8-0409-4f69-960b-3f78df7a0eb5)
